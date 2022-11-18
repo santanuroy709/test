@@ -1,16 +1,5 @@
-print("hello world")
-<<<<<<< HEAD
-print("Hello Santanu")
-=======
->>>>>>> santanu
-print("sdfsd")
-print("hello world")
-print("sdfsd")
-print("hello world")
-print("sdfsd")
-print("hello world")
-<<<<<<< HEAD
-print("sdfsd")
-=======
-print("sdfsd")
->>>>>>> santanu
+new_val = 12
+if new_val == 12:
+    print("sdfsd")
+else:
+    print("sdfsd")
