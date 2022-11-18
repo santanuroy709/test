@@ -1,5 +1,5 @@
 new_val = 12
-if new_val == 12 and new_val == 'dfgdf':
+if new_val == 12 and new_val == 'yo':
     print("sdfsd")
 else:
     print("sdfsd")
